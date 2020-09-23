@@ -4,4 +4,4 @@ My team and I made a machine learning model that can predict stock prices for 7 
 CNN Model Explanation: 
 CNN algorithm is a deep learning algorithm that was originally developed to process image data but recently it shows amazing results in predicting sequential data analysis, exactly the one we are doing in this project.  The reason we chose this model is because a lot of the data now isn’t indicative of traditional historical prices and it might be better to have something that’s closer to the most recent stock price just because of how much unknown there is in general so a CNN is best.
 
-
+Special Thanks to my teammates Christoper, Tanjeel, Zian, and Berkalp
